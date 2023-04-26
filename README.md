@@ -17,7 +17,8 @@ Página com modelo de uma revista. O CSS Grid oferece controle sobre as linhas e
 </p>
 
 
-  ![LoginResponsive](https://user-images.githubusercontent.com/86312347/213257848-dc2452fa-43f0-47a1-aa09-d1085990d8ac.PNG)
+  ![buildingMagazineModel](![Captura da Web_26-4-2023_14343_](https://user-images.githubusercontent.com/86312347/234649961-808aff0c-1974-407d-8086-6f472d83575d.jpeg)
+)
 
 
 
